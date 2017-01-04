@@ -32,7 +32,7 @@ body{
 
 header{
 	margin-top: 20px;
-	background: steelblue;
+	background: tomato;
 	color: #fff;
 }
 h1{
@@ -49,7 +49,7 @@ footer{
 	width: 80%;
 	height: 200px;
 	color: #fff;
-	background: steelblue;
+	background: tomato;
 	border-top: 2px solid #eee;
 	position: absolute;
 	bottom: 0;
