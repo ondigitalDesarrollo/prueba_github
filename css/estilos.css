@@ -1,5 +1,5 @@
 /**
-  * @author: 	Arnold Restrepo Hernandez Ondogital Agencia Digital
+  * @author: 	Arnold Restrepo Hernandez Ondigital Agencia Digital
   * @version:  	1.0
   * @comments:  Creación del layout del proyecto
 **/
@@ -15,6 +15,7 @@
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 	list-style-type: none;
+	
 }
 
 body{
@@ -26,11 +27,13 @@ body{
 	width: 80%;
 	margin: 0px auto;
 	padding: 10px;
-	background: #dedede;
+	
 }
 
 header{
 	margin-top: 20px;
+	background: steelblue;
+	color: #fff;
 }
 h1{
 	text-align: center;
@@ -39,12 +42,14 @@ h1{
 }
 main{
 	margin-top: 20px;
+	color: #ccc;
 }
 
 footer{
 	width: 80%;
 	height: 200px;
-	background: #dedede;
+	color: #fff;
+	background: steelblue;
 	border-top: 2px solid #eee;
 	position: absolute;
 	bottom: 0;
