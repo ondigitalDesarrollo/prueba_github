@@ -42,7 +42,7 @@ h1{
 }
 main{
 	margin-top: 20px;
-	color: #ccc;
+	color: #c0c0c0;
 }
 
 footer{
@@ -56,3 +56,14 @@ footer{
 	padding: 20px;
 	text-align: center;
 }
+
+a{
+	text-decoration: none;
+	color: steelblue;
+}
+
+a:hover{
+	text-decoration: line-through;
+}
+
+
